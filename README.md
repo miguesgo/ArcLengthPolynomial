@@ -1,4 +1,4 @@
-# ArcLengthPolynomial
+# ArcLengthPolynomial | University Project
 Calculating the arc length of a polynomial in an interval
 
 Input and Output:
